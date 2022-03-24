@@ -22,6 +22,7 @@ Sms Alert Codeigniter Library for sending transactional/promotional SMS, through
 ### Now, in your controller function, where you wish to send an SMS/text message, add below code:
 
    $this->load->library('smsalert/smsalertlib'); 
+   
    $this->smsalertlib->smssend($MOBILENO, $TEXT);  
     
 ## Support 
