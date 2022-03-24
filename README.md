@@ -22,6 +22,7 @@ change below variables in SMS Alert library:
 ### Now, in your controller function, where you wish to send an SMS/text message, add below code:
 
    $this->load->library('smsalert/smsalertlib');
+   
    $this->smsalertlib->smssend($MOBILENO, $TEXT);
     
 ## Support 
