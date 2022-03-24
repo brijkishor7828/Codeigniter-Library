@@ -5,9 +5,9 @@ Sms Alert Codeigniter Library for sending transactional/promotional SMS, through
 ## Parameters Details
 ### If you have no account on smsalert.co.in, kindly register https://www.smsalert.co.in/
 
-* user : SMS Alert User Name
+* username : SMS Alert User Name
 
-* pass : SMS Alert current Password
+* password : SMS Alert current Password
 
 * senderid : Receiver will see this as sender's ID(for demo account use DEMOOO)
 
