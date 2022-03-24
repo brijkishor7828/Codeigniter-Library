@@ -13,7 +13,7 @@ Sms Alert Codeigniter Library for sending transactional/promotional SMS, through
 
 
 ## Usage
-change below variables in SMS Alert library:
+### Change below variables in SMS Alert library:
 
   $user = "Smsalert username";  
   $pass = "Smsalert password";  
